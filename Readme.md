@@ -1,6 +1,6 @@
 // smallcase backend
 The Backend is made using Nodejs and mongodb;
-I will be attaching the database files in the repo;
+I will be attaching the database files in the repo dump files
 To start the server:---
 
 1. npm install

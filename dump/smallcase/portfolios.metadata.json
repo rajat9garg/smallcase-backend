@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"smallcase.portfolios"}],"uuid":"4b02361a56164fc7b15705df8d69f37c"}

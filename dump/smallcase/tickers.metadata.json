@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"smallcase.tickers"}],"uuid":"326f8095a8d74aa4b70e5cdde1c3d389"}
